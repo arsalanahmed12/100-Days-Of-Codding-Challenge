@@ -1,3 +1,5 @@
+// DAY 1 CHALLENGE.
+
 // Question 1: Make enviroment in your laptop.
 // Question 2: Store a persons`s name in a variable and print a message to them.
 
