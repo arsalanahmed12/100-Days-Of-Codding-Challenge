@@ -1,3 +1,4 @@
+// DAY 1 CHALLENGE.
 // Question 1: Make enviroment in your laptop.
 // Question 2: Store a persons`s name in a variable and print a message to them.
 var name1 = "Arsalan Ahmed";
@@ -6,4 +7,4 @@ console.log("Hello ".concat(name1, " would you like to learn some TypeScript tod
 var name2 = "Naveed";
 console.log(name2.toLowerCase());
 console.log(name2.toUpperCase());
-console.log(name2.charAt(0).toUpperCase() + name2.slice(1 - 6).toLowerCase());
+console.log(name2.charAt(0).toUpperCase() + name2.slice(1).toLowerCase());
